@@ -1,7 +1,7 @@
 # Sudoku Digit Recognition
 
 ## Project Description
-The project objective is to train a deep learning model that can recognize digits within a Sudoku puzzle and identify their positions within the grid. This repository contains the implementation for Task 1 of the project, which focuses on training a model to read the Sudoku puzzle.
+The project objective is to train a deep learning model that can recognize digits within a Sudoku puzzle and identify their positions within the grid. This repository contains the implementation for Task 1 of the project, which focuses on training a model to read the Sudoku puzzle. Used  **Convolution neural network (CNN)** for to **solve**  the  puzzle and **Multilayer perceptron(MLP)** to **recognise** the  Digits.
 
 ## Tasks
 1. **Task 1: Digit Recognition** - Train a model to recognize digits within a Sudoku puzzle and identify their positions within the grid.
@@ -40,8 +40,8 @@ In total, there shall be 810001 lines in the submission file including the heade
 6. Submit the predictions for evaluation.
 
 ## Files Included
-1. `train_digit_recognition.ipynb`: Jupyter notebook containing code for training the digit recognition model.
-2. `test_digit_recognition.ipynb`: Jupyter notebook containing code for testing the digit recognition model and generating predictions.
+1. `SUDOKU_PUZZLE_submission_by_Suraj.ipynb.`: Jupyter notebook containing code for training the digit recognition model and Predictions.
+2. Each task has two differnt methods **TWO** solve the problems.
 3. `submission.csv`: Sample submission file.
 
 ## Dependencies
