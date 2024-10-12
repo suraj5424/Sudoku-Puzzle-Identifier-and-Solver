@@ -94,4 +94,4 @@ The project successfully demonstrates the use of neural networks for solving Sud
 - Special thanks to the course instructors and peers for their support and guidance throughout the project. ❤️
 
 ## License 📜
-This project is licensed under the MIT License. See the LICENSE file for details. 📄
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.📄
