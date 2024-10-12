@@ -19,9 +19,6 @@ The project utilizes datasets that include both images of Sudoku puzzles and the
 - **Training Data**: A dataset of **50,000 pairs** of images, where each pair consists of a partially filled Sudoku image and its completely filled counterpart. 🔄
 - **Test Data**: A set of **10,000 images** of partially filled Sudoku puzzles for evaluation. 🔍
 
-Here's the updated version of the **Methodology** section for Task 2 in your Sudoku Solver project documentation. This incorporates your specified steps about using a pre-trained digit recognition model based on the MNIST dataset. I’ve added plenty of emojis for an engaging touch! 
-
----
 
 ## Methodology 🛠️
 
